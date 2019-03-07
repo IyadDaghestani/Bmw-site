@@ -49,7 +49,7 @@ li {
       border-bottom: 4px white;
       background-color: blueviolet;
       text-align: center;
-      line-height: 270%;
+      line-height: 200px;
   }
    .autonomous-driving{
     width: 671px;
@@ -59,6 +59,7 @@ li {
     background-color:   gray;
     text-align: center;
     flex-wrap: wrap;
+    line-height: 200px;
 
    }
     .Music{
@@ -66,9 +67,10 @@ li {
     height: 200px;
     border-left:  4px  white;
     border-bottom: 4px white;
-    background-color:  red;
+    background-color:    rebeccapurple;
     text-align: center;
     flex-wrap: wrap;
+    line-height: 200px;
     }
 
     .country{
@@ -79,6 +81,7 @@ li {
       background-color:  white;
       text-align: center;
       padding: 4px;
+      line-height: 200px;
 
     }
     .second-container{
@@ -96,6 +99,7 @@ li {
         border-bottom: 4px white;
         background-color:  blue;
         text-align: center;
+        line-height: 200px;
 
     }
     .Erlkoning{
@@ -105,6 +109,7 @@ li {
         border-bottom: 4px white;
         background-color:   green;
         text-align: center;
+        line-height: 200px;
 
     }
     .smart-cities{
@@ -114,6 +119,7 @@ li {
         border-bottom: 4px white;
         background-color:  burlywood;
         text-align: center;
+        line-height: 200px;
 
     }
     .innovation{
@@ -123,6 +129,7 @@ li {
         border-bottom: 4px white;
         background-color:   beige;
         text-align: center;
+        line-height: 200px;
     }
     .impression{
         width: 335.5px;
@@ -131,6 +138,7 @@ li {
         border-bottom: 4px white;
         background-color:   bisque;
         text-align: center;
+        line-height: 200px;
     }
     .lifestyle{
         width: 335.5px;
@@ -139,6 +147,7 @@ li {
         border-bottom: 4px white;
         background-color:    fuchsia;
         text-align: center;
+        line-height: 200px;
 
     }
     .roadtrip{
@@ -148,14 +157,16 @@ li {
         border-bottom: 4px white;
         background-color:  darkmagenta;
         text-align: center;
+        line-height: 200px;
     }
     .valantine{
         width: 1006.5px;
         height: 200px;
         border-left:  4px  white;
         border-bottom: 4px white;
-        background-color:    darkred;
+        background-color:    red;
         text-align: center;
+        line-height: 200px;
     }
     .fashion{
         width: 335.5px;
@@ -164,6 +175,7 @@ li {
         border-bottom: 4px white;
         background-color:  purple;
         text-align: center;
+        line-height: 200px;
     }
     .lifestyle{
         width: 335.5px;
@@ -172,6 +184,7 @@ li {
         border-bottom: 4px white;
         background-color:    blanchedalmond;
         text-align: center;
+        line-height: 200px;
     }
     
   .show-more{
@@ -179,7 +192,7 @@ li {
       width: auto;
        border: 4px white;
        background: white;
-       line-height: 270%;
+       line-height: 200px;
     border: 4px solid gray;
     
   }
@@ -208,7 +221,8 @@ li {
     border-bottom: 4px white;
     background-color:   yellowgreen;
     text-align: center; 
-    border: 4px solid white;  
+    border: 4px solid white;
+    line-height: 200px;  
    }
     .box2{
         width: 25%;
@@ -217,7 +231,8 @@ li {
         border-bottom: 4px white;
         background-color:   rgb(77, 69, 69);
         text-align: center;
-        border: 4px solid white;  
+        border: 4px solid white;
+        line-height: 200px;  
     }
     .box3{
         width: 25%;
@@ -226,7 +241,8 @@ li {
         border-bottom: 4px white;
         background-color:   lavender;
         text-align: center;
-        border: 4px solid white;  
+        border: 4px solid white;
+        line-height: 200px;  
     }
     .box4{
         width: 25%;
@@ -235,7 +251,8 @@ li {
         border-bottom: 4px white;
         background-color:  lightblue;
         text-align: center;
-        border: 4px solid white;  
+        border: 4px solid white;
+        line-height: 200px;  
     }
     .box5{
         width: 25%;
@@ -244,7 +261,8 @@ li {
         border-bottom: 4px white;
         background-color:   lightcyan;
         text-align: center;
-        border: 4px solid white;  
+        border: 4px solid white;
+        line-height: 200px;  
     }
     .box6{
         width: 25%;
@@ -253,7 +271,8 @@ li {
         border-bottom: 4px white;
         background-color:   lightgoldenrodyellow;
         text-align: center;
-        border: 4px solid white;  
+        border: 4px solid white;
+        line-height: 200px;  
     }
     .box7{
         width: 25%;
@@ -262,7 +281,8 @@ li {
         border-bottom: 4px white;
         background-color:   lavenderblush;
         text-align: center;
-        border: 4px solid white;  
+        border: 4px solid white;
+        line-height: 200px;  
     }
   footer{
       background: rgb(77, 69, 69);
