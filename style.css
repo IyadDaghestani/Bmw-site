@@ -1,0 +1,288 @@
+* {
+
+    box-sizing: border-box;
+}
+body {
+
+    background-color:rgb(252, 248, 248);
+
+    display: flex;
+
+    flex: 1 1 auto;
+
+    flex-flow: column;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    height: 100vh;
+
+    margin: 0;
+
+    width: 100vw;
+
+}
+.topbar {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: non;
+    background: white;
+}
+li {
+    display: inline-block;
+    padding: 20px;
+  }
+  
+  .main-container {
+      display: flex;
+      border: 4px solid white;
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+      flex-wrap: wrap;
+
+
+  }
+  .advice{
+      width: 1342px;
+      height: 200px;
+      border-left:  4px  white;
+      border-bottom: 4px white;
+      background-color: blueviolet;
+      text-align: center;
+      line-height: 270%;
+  }
+   .autonomous-driving{
+    width: 671px;
+    height: 200px;
+    border-left:  4px  white;
+    border-bottom: 4px white;
+    background-color:   gray;
+    text-align: center;
+    flex-wrap: wrap;
+
+   }
+    .Music{
+    width: 671px;
+    height: 200px;
+    border-left:  4px  white;
+    border-bottom: 4px white;
+    background-color:  red;
+    text-align: center;
+    flex-wrap: wrap;
+    }
+
+    .country{
+        width: auto;
+      height: 200px;
+      border-left:  4px  white;
+      border-bottom: 4px white;
+      background-color:  white;
+      text-align: center;
+      padding: 4px;
+
+    }
+    .second-container{
+        display: flex;
+        border: 4px solid white;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        flex-wrap:wrap;
+    }
+    .carsharing{
+        width: 671px;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:  blue;
+        text-align: center;
+
+    }
+    .Erlkoning{
+        width: 335.5px;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:   green;
+        text-align: center;
+
+    }
+    .smart-cities{
+        width: 335.5px;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:  burlywood;
+        text-align: center;
+
+    }
+    .innovation{
+        width: 335.5px;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:   beige;
+        text-align: center;
+    }
+    .impression{
+        width: 335.5px;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:   bisque;
+        text-align: center;
+    }
+    .lifestyle{
+        width: 335.5px;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:    fuchsia;
+        text-align: center;
+
+    }
+    .roadtrip{
+        width: 335.5px;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:  darkmagenta;
+        text-align: center;
+    }
+    .valantine{
+        width: 1006.5px;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:    darkred;
+        text-align: center;
+    }
+    .fashion{
+        width: 335.5px;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:  purple;
+        text-align: center;
+    }
+    .lifestyle{
+        width: 335.5px;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:    blanchedalmond;
+        text-align: center;
+    }
+    
+  .show-more{
+      text-align: center;
+      width: auto;
+       border: 4px white;
+       background: white;
+       line-height: 270%;
+    border: 4px solid gray;
+    
+  }
+  .content-secondary{
+    width: auto;
+    height: 200px;
+    border-left:  4px  white;
+    border-bottom: 4px white;
+    background-color:  lightgray;
+    text-align: center;
+    padding: 4px;
+  }
+   .third-container{
+    display: flex;
+    border: 4px solid white;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    flex-wrap:wrap;
+
+   }
+   .box1{
+    width: 25%;
+    height: 200px;
+    border-left:  4px  white;
+    border-bottom: 4px white;
+    background-color:   yellowgreen;
+    text-align: center; 
+    border: 4px solid white;  
+   }
+    .box2{
+        width: 25%;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:   rgb(77, 69, 69);
+        text-align: center;
+        border: 4px solid white;  
+    }
+    .box3{
+        width: 25%;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:   lavender;
+        text-align: center;
+        border: 4px solid white;  
+    }
+    .box4{
+        width: 25%;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:  lightblue;
+        text-align: center;
+        border: 4px solid white;  
+    }
+    .box5{
+        width: 25%;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:   lightcyan;
+        text-align: center;
+        border: 4px solid white;  
+    }
+    .box6{
+        width: 25%;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:   lightgoldenrodyellow;
+        text-align: center;
+        border: 4px solid white;  
+    }
+    .box7{
+        width: 25%;
+        height: 200px;
+        border-left:  4px  white;
+        border-bottom: 4px white;
+        background-color:   lavenderblush;
+        text-align: center;
+        border: 4px solid white;  
+    }
+  footer{
+      background: rgb(77, 69, 69);
+  }
+  .footer-top{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: non;   
+  }
+  li {
+    display: inline-block;
+    padding: 20px;
+  }
+  .footer-bottem{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: non;   
+  }
+  li {
+    display: inline-block;
+    padding: 20px;
+  }
+  
