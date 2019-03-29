@@ -132,7 +132,10 @@ img{
     
 
 }
-
+video{
+    width: 
+    height: 300px;
+}
 .Erlkoning {
     width: 25%;
     background-color: green;
